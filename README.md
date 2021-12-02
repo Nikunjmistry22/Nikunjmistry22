@@ -6,7 +6,7 @@ My name is <a href="https://www.linkedin.com/in/nikunj-mistry-b03993223/">Nikunj
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmistry22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=E8F9D3&bg_color=0A1731">
 <hr>
 Here are some UI/UX design:- 
-<br>
+<br><br>
 <table>
   <caption><b>Destop Mode only</b></caption>
   <tr>
