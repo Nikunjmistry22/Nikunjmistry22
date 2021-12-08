@@ -31,10 +31,51 @@ Here are some UI/UX design:-
     <th> <a href="https://github.com/Nikunjmistry22/Netflix-Clone" target="_blank" rel="noopener noreferrer">Repo</a></th>
   </tr>
   <tr>
+    <th>GameTest</th>
+    <th><i>Html Css Js</i></th>
+    <th> <a href="https://nikunjmistry22.github.io/GameTest/" target="_blank" rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/GameTest" target="_blank" rel="noopener noreferrer">Repo</a></th>
+  </tr>
+  
+  </table>
+<hr>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Front-end</th>
+    <th>Demo</th>
+    <th>Link</th>
+  </tr>
+  <tr>
     <th>Tic-Tac-toe</th>
     <th><i>Html Css JS</i></th>
     <th> <a href="https://nikunjmistry22.github.io/Tick-tac-toe/" target="_blank" rel="noopener noreferrer">Demo</a></th>
     <th> <a href="https://github.com/Nikunjmistry22/Tick-tac-toe" target="_blank" rel="noopener noreferrer">Repo</a></th>
+  </tr>
+   <tr>
+    <th>Random No</th>
+    <th><i>Html Css JS</i></th>
+    <th> <a href=https://nikunjmistry22.github.io/Random_Genarator/"" target="_blank" rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/Random_Genarator" target="_blank" rel="noopener noreferrer">Repo</a></th>
+  </tr>
   </table>
-<hr>
+  <hr>
+  <table>
+  <tr>
+    <th>Name</th>
+    <th>Front-end</th>
+    <th>Back-end</th>
+    <th>Demo</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <th>Hotel Management System</th>
+    <th><i>Java</i></th>
+    <th><i>Mysql</i></th>
+    <th>-</th>
+    <th> <a href="https://github.com/Nikunjmistry22/mpr_java" target="_blank" rel="noopener noreferrer">Repo</a></th>
+  </tr>
+   
+  </table>
+  <hr>
 ⚡ Fun fact: Catch me on <a href="https://www.instagram.com/nikunjmistry1000/">LINK</a>
