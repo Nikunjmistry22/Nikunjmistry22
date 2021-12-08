@@ -16,4 +16,18 @@ Here are some UI/UX design:-
     
   </table>
 <hr>
+<table>
+  <caption><b>Destop Mode only</b></caption>
+  <tr>
+    <th>Name</th>
+    <th>Demo</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <th>Netflix Clone</th>
+    <th> <a href="nikunjmistry22.github.io/netflix-clone/" target="_blank" rel="noopener noreferrer">Demo</a> </th>
+    <th> <a href="https://github.com/Nikunjmistry22/Netflix-Clone" target="_blank" rel="noopener noreferrer">Repo</a></th>
+    
+  </table>
+<hr>
 ⚡ Fun fact: Catch me on <a href="https://www.instagram.com/nikunjmistry1000/">LINK</a>
