@@ -55,7 +55,7 @@ Here are some UI/UX design:-
    <tr>
     <th>Random No</th>
     <th><i>Html Css JS</i></th>
-    <th> <a href=https://nikunjmistry22.github.io/Random_Genarator/"" target="_blank" rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://nikunjmistry22.github.io/Random_Genarator/" target="_blank" rel="noopener noreferrer">Demo</a></th>
     <th> <a href="https://github.com/Nikunjmistry22/Random_Genarator" target="_blank" rel="noopener noreferrer">Repo</a></th>
   </tr>
   </table>
