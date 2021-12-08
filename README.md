@@ -25,7 +25,7 @@ Here are some UI/UX design:-
   </tr>
   <tr>
     <th>Netflix Clone</th>
-    <th> <a href="nikunjmistry22.github.io/netflix-clone/" target="_blank" rel="noopener noreferrer">Demo</a> </th>
+    <th> <a href="nikunjmistry22.github.io/netflix-clone/">Demo</a> </th>
     <th> <a href="https://github.com/Nikunjmistry22/Netflix-Clone" target="_blank" rel="noopener noreferrer">Repo</a></th>
     
   </table>
