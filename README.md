@@ -20,14 +20,21 @@ Here are some UI/UX design:-
   <caption><b>Destop Mode only</b></caption>
   <tr>
     <th>Name</th>
+    <th>Front End </th>
     <th>Demo</th>
     <th>Link</th>
   </tr>
   <tr>
     <th>Netflix Clone</th>
-    <th> <a href="nikunjmistry22.github.io/netflix-clone/">Demo</a> </th>
+    <th><i>Html Css</i></th>
+    <th> <a href="https://nikunjmistry22.github.io/Netflix-Clone/" target="_blank" rel="noopener noreferrer">Demo</a></th>
     <th> <a href="https://github.com/Nikunjmistry22/Netflix-Clone" target="_blank" rel="noopener noreferrer">Repo</a></th>
-    
+  </tr>
+  <tr>
+    <th>Tic-Tac-toe</th>
+    <th><i>Html Css JS</i></th>
+    <th> <a href="https://nikunjmistry22.github.io/Tick-tac-toe/" target="_blank" rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/Tick-tac-toe" target="_blank" rel="noopener noreferrer">Repo</a></th>
   </table>
 <hr>
 ⚡ Fun fact: Catch me on <a href="https://www.instagram.com/nikunjmistry1000/">LINK</a>
