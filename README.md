@@ -68,6 +68,23 @@ Here are some UI/UX design:-
   </table>
   <hr>
   <table>
+  <caption><b>Documentary Destop-mode</b></caption>
+  <tr>
+    <th>Sr.No</th>
+    <th>Name </th>
+    <th>Demo</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <th>1.</th>
+    <th><i>Python Turtle</i></th>
+    <th> <a href="https://nikunjmistry22.github.io/Python_Turtle/" rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/Python_Turtle" rel="noopener noreferrer">Repo</a></th>
+  </tr>
+  
+  </table>
+  <hr>
+  <table>
   <tr>
     <th>Name</th>
     <th>Front-end</th>
