@@ -66,6 +66,12 @@ Here are some UI/UX design:-
     <th> <a href="https://nikunjmistry22.github.io/Calculator/" target="_blank" rel="noopener noreferrer">Demo</a></th>
     <th> <a href="https://github.com/Nikunjmistry22/Calculator" target="_blank" rel="noopener noreferrer">Repo</a></th>
   </tr>
+   <tr>
+    <th>Pizzawish</th>
+    <th><i>Bootstrap</i></th>
+    <th> <a href="https://nikunjmistry22.github.io/Pizzawish/" target="_blank" rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/Pizzawish" target="_blank" rel="noopener noreferrer">Repo</a></th>
+  </tr>
   </table>
   <hr>
   <table>
