@@ -109,4 +109,23 @@ Here are some UI/UX design:-
    
   </table>
   <hr>
+  
+  <table>
+  <tr>
+    <th>Name</th>
+    <th>Python library</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <th>Weather analysis</th>
+    <th><i>Pandas</i></th>
+    <th><a href="https://github.com/Nikunjmistry22/Data_Analysis/blob/main/Weather.ipynb" target="_blank" rel="noopener noreferrer">Repo</a></th>
+      </tr>
+   
+  <tr>
+    <th>Gas & Football data visualization</th>
+    <th><i>Matplotlib</i></th>
+    <th><a href="https://github.com/Nikunjmistry22/Data_Analysis/blob/main/matplotlib.ipynb" target="_blank" rel="noopener noreferrer">Repo</a></th>
+      </tr>
+  </table>
 ⚡ Fun fact: Catch me on <a href="https://www.instagram.com/nikunjmistry1000/">LINK</a>
