@@ -106,7 +106,13 @@ Here are some UI/UX design:-
     <th>-</th>
     <th> <a href="https://github.com/Nikunjmistry22/mpr_java" target="_blank" rel="noopener noreferrer">Repo</a></th>
   </tr>
-   
+  <tr>
+    <th>Bill Management</th>
+    <th><i>Python</i></th>
+    <th>Mysql</th>
+    <th>-</th>
+    <th> <a href="https://github.com/Nikunjmistry22/mpr_python" target="_blank" rel="noopener noreferrer">Repo</a></th>
+   </tr>
   </table>
   <hr>
   
