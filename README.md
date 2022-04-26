@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is <a href="https://www.linkedin.com/in/nikunj-mistry-b03993223/">Nikunj Mistry</a> and I am an SE student at Thadomal Shahani Engineering College, Bandra.<br>
-Here is my <a href="https://nikunjmistry22.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">Portfoilo</a>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Nikunjmistry22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=E8F9D3&bg_color=0A1731">
 <hr>
