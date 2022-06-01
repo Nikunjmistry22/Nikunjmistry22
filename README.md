@@ -91,6 +91,7 @@ Here are some UI/UX design:-
   </table>
   <hr>
   <table>
+  <caption><b>College Projects</b></caption>
   <tr>
     <th>Name</th>
     <th>Front-end</th>
@@ -116,6 +117,7 @@ Here are some UI/UX design:-
   <hr>
   
   <table>
+  <caption><b>Exploratory Data Analysis</b></caption>
   <tr>
     <th>Name</th>
     <th>Python library</th>
