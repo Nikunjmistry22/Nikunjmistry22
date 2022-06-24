@@ -135,4 +135,16 @@ Here are some UI/UX design:-
     <th><a href="https://github.com/Nikunjmistry22/Data_Analysis/blob/main/matplotlib.ipynb" target="_blank" rel="noopener noreferrer">Repo</a></th>
       </tr>
   </table>
+  <hr>
+  <table>
+  <caption><b>Power BI -Visualizing Tool</b></caption>
+  <tr>
+    <th>Name</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>Sample SuperStore Dashboard</b></td>
+    <td><a href="https://github.com/Nikunjmistry22/Power-BI/tree/main/projects/project%201-Report">LINK</a>
+  </tr>
+  </table>
 ⚡ Fun fact: Catch me on <a href="https://www.instagram.com/nikunjmistry1000/">LINK</a>
