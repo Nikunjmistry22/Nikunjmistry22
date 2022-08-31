@@ -18,6 +18,50 @@ Here are some UI/UX design:-
   </table>
 <hr>
 <table>
+  <caption><b>Exploratory Data Analysis</b></caption>
+  <tr>
+    <th>Name</th>
+    <th>Python library</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <th>Weather analysis</th>
+    <th><i>Pandas</i></th>
+    <th><a href="https://github.com/Nikunjmistry22/Data_Analysis/blob/main/Weather.ipynb" target="_blank" rel="noopener noreferrer">Repo</a></th>
+      </tr>
+   
+  <tr>
+    <th>Gas & Football data visualization</th>
+    <th><i>Matplotlib</i></th>
+    <th><a href="https://github.com/Nikunjmistry22/Data_Analysis/blob/main/matplotlib.ipynb" target="_blank" rel="noopener noreferrer">Repo</a></th>
+      </tr>
+  </table>
+  <hr>
+  <table>
+  <caption><b>Power BI -Visualizing Tool</b></caption>
+  <tr>
+    <th>Name</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>Sample SuperStore Dashboard</b></td>
+    <td><a href="https://github.com/Nikunjmistry22/Power-BI/tree/main/projects/project%201-Report">LINK</a>
+  </tr>
+  </table>
+  <hr>
+    <table>
+  <caption><b>ETL pipeline</b></caption>
+  <tr>
+    <th>Name</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>ETL OF JSON & LOG FILES</b></td>
+    <td><a href="https://github.com/Nikunjmistry22/Basic-ETL">LINK</a>
+  </tr>
+  </table>
+  <hr>
+<table>
   <caption><b>Destop Mode only</b></caption>
   <tr>
     <th>Name</th>
@@ -113,38 +157,5 @@ Here are some UI/UX design:-
     <th>-</th>
     <th> <a href="https://github.com/Nikunjmistry22/mpr_python" target="_blank" rel="noopener noreferrer">Repo</a></th>
    </tr>
-  </table>
-  <hr>
-  
-  <table>
-  <caption><b>Exploratory Data Analysis</b></caption>
-  <tr>
-    <th>Name</th>
-    <th>Python library</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <th>Weather analysis</th>
-    <th><i>Pandas</i></th>
-    <th><a href="https://github.com/Nikunjmistry22/Data_Analysis/blob/main/Weather.ipynb" target="_blank" rel="noopener noreferrer">Repo</a></th>
-      </tr>
-   
-  <tr>
-    <th>Gas & Football data visualization</th>
-    <th><i>Matplotlib</i></th>
-    <th><a href="https://github.com/Nikunjmistry22/Data_Analysis/blob/main/matplotlib.ipynb" target="_blank" rel="noopener noreferrer">Repo</a></th>
-      </tr>
-  </table>
-  <hr>
-  <table>
-  <caption><b>Power BI -Visualizing Tool</b></caption>
-  <tr>
-    <th>Name</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><b>Sample SuperStore Dashboard</b></td>
-    <td><a href="https://github.com/Nikunjmistry22/Power-BI/tree/main/projects/project%201-Report">LINK</a>
-  </tr>
   </table>
 ⚡ Fun fact: Catch me on <a href="https://www.instagram.com/nikunjmistry1000/">LINK</a>
