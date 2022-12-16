@@ -75,6 +75,31 @@ Here are some UI/UX design:-
   </tr>
   </table>
   <hr>
+  <table>
+  <caption><b>Destop-mode Projects</b></caption>
+  <tr>
+    <th>Sr.No</th>
+    <th>Name </th>
+    <th>Demo</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <th>1.</th>
+    <th><i>Python Turtle</i></th>
+    <th> <a href="https://nikunjmistry22.github.io/Python_Turtle/" rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/Python_Turtle" rel="noopener noreferrer">Repo</a></th>
+  </tr>
+  
+  <tr>
+    <th>1.</th>
+    <th><i>Matplotlib visualize dashboard</i></th>
+    <th> <a href="https://www.youtube.com/watch?v=wBGD9gH6IW8 rel="noopener noreferrer">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/Matplotlib_Dashboard/blob/main/README.md rel="noopener noreferrer">Repo</a></th>
+  </tr>
+  
+  </table>
+  
+  <hr>
 <table>
   <caption><b>Destop Mode only</b></caption>
   <tr>
@@ -129,23 +154,6 @@ Here are some UI/UX design:-
     <th> <a href="https://nikunjmistry22.github.io/Pizzawish/" target="_blank" rel="noopener noreferrer">Demo</a></th>
     <th> <a href="https://github.com/Nikunjmistry22/Pizzawish" target="_blank" rel="noopener noreferrer">Repo</a></th>
   </tr>
-  </table>
-  <hr>
-  <table>
-  <caption><b>Documentary Destop-mode</b></caption>
-  <tr>
-    <th>Sr.No</th>
-    <th>Name </th>
-    <th>Demo</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <th>1.</th>
-    <th><i>Python Turtle</i></th>
-    <th> <a href="https://nikunjmistry22.github.io/Python_Turtle/" rel="noopener noreferrer">Demo</a></th>
-    <th> <a href="https://github.com/Nikunjmistry22/Python_Turtle" rel="noopener noreferrer">Repo</a></th>
-  </tr>
-  
   </table>
   <hr>
   <table>
