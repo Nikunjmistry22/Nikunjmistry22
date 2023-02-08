@@ -52,22 +52,14 @@ Here are some UI/UX design:-
   </table>
   <hr>
   <table>
-  <caption><b>Power BI -Visualizing Tool</b></caption>
+  <caption><b>Big Data Projects</b></caption>
   <tr>
     <th>Name</th>
     <th>Link</th>
   </tr>
   <tr>
-    <td><b>Sample SuperStore Dashboard</b></td>
-    <td><a href="https://github.com/Nikunjmistry22/Power-BI/tree/main/projects/project%201-Report">LINK</a>
-  </tr>
-  </table>
-  <hr>
-    <table>
-  <caption><b>ETL pipeline</b></caption>
-  <tr>
-    <th>Name</th>
-    <th>Link</th>
+    <td><b>Stackoverflow-data</b></td>
+    <td><a href="https://github.com/Nikunjmistry22/stackoverflow-data#readme">LINK</a>
   </tr>
   <tr>
     <td><b>ETL OF JSON & LOG FILES</b></td>
@@ -91,10 +83,17 @@ Here are some UI/UX design:-
   </tr>
   
   <tr>
-    <th>1.</th>
+    <th>2.</th>
     <th><i>Matplotlib visualize dashboard</i></th>
     <th> <a href="https://www.youtube.com/watch?v=wBGD9gH6IW8 rel="noopener noreferrer">Demo</a></th>
     <th> <a href="https://github.com/Nikunjmistry22/Matplotlib_Dashboard/blob/main/README.md rel="noopener noreferrer">Repo</a></th>
+  </tr>
+  
+   <tr>
+    <th>3.</th>
+    <th><i>Sorting Algo Visualizer</i></th>
+    <th> <a href="https://drive.google.com/file/d/1c_rfZoXpDPGAe2tqE96h8GoF5BHeu28m/view">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/SortingAlgoVisualizer#readme">Repo</a></th>
   </tr>
   
   </table>
