@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is <a href="https://www.linkedin.com/in/nikunj-mistry-b03993223/">Nikunj Mistry</a> and I am an TE student at Thadomal Shahani Engineering College, Bandra.<br>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Nikunjmistry22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=E8F9D3&bg_color=0A1731">
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=Nikunjmistry22&show_icons=true&theme=dracula"/>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjmistry22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=E8F9D3&bg_color=0A1731">
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nikunjmistry22&layout=compact&langs_count=16&theme=dracula"/>
 <hr>
 Here are some UI/UX design:- 
 <br><br>
