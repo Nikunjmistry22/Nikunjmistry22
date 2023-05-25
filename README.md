@@ -95,7 +95,12 @@ Here are some UI/UX design:-
     <th> <a href="https://drive.google.com/file/d/1c_rfZoXpDPGAe2tqE96h8GoF5BHeu28m/view">Demo</a></th>
     <th> <a href="https://github.com/Nikunjmistry22/SortingAlgoVisualizer#readme">Repo</a></th>
   </tr>
-  
+  <tr>
+    <th>4.</th>
+    <th><i>Query Analyzer</th>
+      <th> <a href="https://drive.google.com/file/d/1wp1i-zIHn44rGZmNCrkxLDFZ9f4u_qd6/view?usp=sharing">Demo</a></th>
+    <th> <a href="https://github.com/Nikunjmistry22/QueryAnalyzer">Repo</a></th>
+  </tr>
   </table>
   
   <hr>
