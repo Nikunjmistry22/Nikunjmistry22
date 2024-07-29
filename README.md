@@ -4,15 +4,6 @@
 Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw data into meaningful insights. Welcome to my digital portfolio!
 
 ##  About Me
-
-- 🎓 **Education**: 
-  - **Bachelor of Engineering in Information Technology**  
-    Thadomal Shahani Engineering College, University of Mumbai (CGPA: 8.91/10.0)
-  - **Higher Secondary School**  
-    Pace Junior Science College (Percentage: 80.62/100)
-  - **10th Grade**  
-    Mahapragya Public School (Percentage: 87.8/100)
-
 - 💼 **Work Experience**:
   - **Data Analyst Intern at Tamasha**  
     _June 2023 - Sep 2023_
@@ -58,6 +49,7 @@ _An interactive web application for beginners to learn and manipulate Pandas._
 
 - **Email**: [nikunjmistry1000@gmail.com](mailto:nikunjmistry1000@gmail.com)
 - **Phone**: +91-9004256895
+- **Resume**: [Link](https://drive.google.com/file/d/1QnS_68jyrHayhZdUbUIy4E_yU2vbdhyR/view?usp=sharing)
 
 ---
 
