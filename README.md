@@ -1,19 +1,64 @@
-### Hi there 👋
-My name is <a href="https://www.linkedin.com/in/nikunj-mistry-b03993223/">Nikunj Mistry</a> and I am an BE student at Thadomal Shahani Engineering College, Bandra.<br>
-# <a href="https://nikunj-portfolio-luq6.onrender.com" target="_blank" rel="noopener noreferrer">Portfolio</a>
-<br><br>
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=Nikunjmistry22&show_icons=true&theme=dracula"/>
-<hr>
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nikunjmistry22&layout=compact&langs_count=16&theme=dracula"/>
-<hr>
-Here are some UI/UX design:- 
-<br><br>
-<table>
-  <caption><b>Figma (Destop Mode only)</b></caption>
-  <tr>
-    <th> <a href="https://www.figma.com/proto/UrCBeA0VsY2DGk0hLYYfYd/Husky-Wiki?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1" target="_blank" rel="noopener noreferrer">Husky Wiki</a></th>
-    <th> <a href="https://www.figma.com/proto/o2amK7tmPTNBK9jDiJotUe/FoodWish?node-id=2%3A5&scaling=scale-down&page-id=0%3A1" target="_blank" rel="noopener noreferrer">FoodWish</a> </th>
-    <th> <a href="https://www.figma.com/proto/Y3CDdBsRxNO4eKoOMpLlOI/Workout?node-id=111%3A15&scaling=scale-down&page-id=0%3A1" target="_blank" rel="noopener noreferrer">Workout App</a></th>
-     <th> <a href="https://www.figma.com/proto/dJOyZvmNIAInOxXS6LTfee/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2" target="_blank" rel="noopener noreferrer">GYD app</a></th>
-    
-⚡ Fun fact: Catch me on <a href="https://www.instagram.com/nikunjmistry1000/">LINK</a>
+# Hi there, I'm Nikunj Mistry! 👋
+
+
+Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw data into meaningful insights. Welcome to my digital portfolio!
+
+##  About Me
+
+- 🎓 **Education**: 
+  - **Bachelor of Engineering in Information Technology**  
+    Thadomal Shahani Engineering College, University of Mumbai (CGPA: 8.91/10.0)
+  - **Higher Secondary School**  
+    Pace Junior Science College (Percentage: 80.62/100)
+  - **10th Grade**  
+    Mahapragya Public School (Percentage: 87.8/100)
+
+- 💼 **Work Experience**:
+  - **Data Analyst Intern at Tamasha**  
+    _June 2023 - Sep 2023_
+    - Developed dashboards for revenue, deposit tracking, and game-specific analytics.
+    - Managed cashback processes and automated weekly cashback reports.
+    - Resolved technical glitches and addressed customer queries.
+    - Automated user churn reports to optimize marketing strategies.
+
+## 🛠 Skills
+
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy, Cassandra , Neo4j 
+- **Web Technologies**: Web 2.0, Bootstrap, Flask, Quart
+- **Big Data Tools**: PySpark, ETL, Data Modelling, Data Analysis
+- **Other Tools**: Git, Anaconda, Colab, Figma, Power BI, Wix
+- **Coding Platforms**: Leetcode (Highest Rating: 1903), CodeChef (Highest Rating: 1561), Solved 500+ SQL Problems
+
+## 💡 Projects
+
+### [SqlUnlocker](https://github.com/Nikunjmistry22/SqlUnlocker)
+_Access all LeetCode SQL questions and solutions, including locked ones._
+
+### [Pokemon Dashboard](https://github.com/Nikunjmistry22/Pokemon_ETL_Dashboard)
+_Extracted data from PokeAPI and visualized it using Power BI._
+
+### [Pandas Helper](https://github.com/Nikunjmistry22/Pandas-Helper)
+_An interactive web application for beginners to learn and manipulate Pandas._
+
+## 🏆 Achievements
+
+- **SQL Advanced Certification**
+- **Google Analytics Certification**
+- **CollegePythonExpo - Top 11**
+- **Celestial-Data-O-Thon - Top 200**
+- **Leetcode Global Rank**: 8862
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-mistry-b03993223/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikunjmistry22)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nikunjmistry373/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RegexSage/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/droningnikunj)
+
+- **Email**: [nikunjmistry1000@gmail.com](mailto:nikunjmistry1000@gmail.com)
+- **Phone**: +91-9004256895
+
+---
+
+Feel free to reach out if you want to collaborate on a project or just want to chat about data science and engineering!
