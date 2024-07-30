@@ -14,7 +14,7 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 
 ## 🛠 Skills
 
-- **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy, Cassandra , Neo4j 
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **Web Technologies**: Web 2.0, Bootstrap, Flask, Quart
 - **Big Data Tools**: PySpark, ETL, Data Modelling, Data Analysis
 - **Other Tools**: Git, Anaconda, Colab, Figma, Power BI, Wix
