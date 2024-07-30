@@ -49,7 +49,7 @@ _An interactive web application for beginners to learn and manipulate Pandas._
 
 - **Email**: [nikunjmistry1000@gmail.com](mailto:nikunjmistry1000@gmail.com)
 - **Phone**: +91-9004256895
-- **Resume**: [Link](https://drive.google.com/file/d/1QnS_68jyrHayhZdUbUIy4E_yU2vbdhyR/view?usp=sharing)
+- **Resume**: [Link](https://tinyurl.com/ResumeNikunjm)
 
 ---
 
