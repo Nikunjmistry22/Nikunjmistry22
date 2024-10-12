@@ -5,6 +5,12 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 
 ##  About Me
 - 💼 **Work Experience**:
+  - **Data Analyst Intern at NeenOPal**  
+     _CURRENT_
+    - Developing GCP dimension tables for the GA dashboard at the 'Event level', 'Page level', and 'Session level' for all GA KPIs of a US client project.
+    - Working on an internal project, which involves building an ETL pipeline using AWS services.
+      
+- 💼 **Work Experience**:
   - **Data Analyst Intern at Tamasha**  
     _June 2023 - Sep 2023_
     - Developed dashboards for revenue, deposit tracking, and game-specific analytics.
