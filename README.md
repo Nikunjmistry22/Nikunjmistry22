@@ -23,19 +23,19 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 - **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **Web Technologies**: Web 2.0, Bootstrap, Flask, Quart
 - **Big Data Tools**: PySpark, ETL, Data Modelling, Data Analysis
+- **Cloud**: AWS, GCP Big Query , DBT, Prefect
 - **Other Tools**: Git, Anaconda, Colab, Figma, Power BI, Wix
 - **Coding Platforms**: Leetcode (Highest Rating: 1903), CodeChef (Highest Rating: 1561), Solved 500+ SQL Problems
 
 ## 💡 Projects
 
+### [SqlUnlocker](https://github.com/Nikunjmistry22/Air-Quality-Pipeline)
+_Build an ETL pipeline for daily record fetch due to rate limit in free tier account._
 ### [SqlUnlocker](https://github.com/Nikunjmistry22/SqlUnlocker)
 _Access all LeetCode SQL questions and solutions, including locked ones._
 
 ### [Pokemon Dashboard](https://github.com/Nikunjmistry22/Pokemon_ETL_Dashboard)
 _Extracted data from PokeAPI and visualized it using Power BI._
-
-### [Pandas Helper](https://github.com/Nikunjmistry22/Pandas-Helper)
-_An interactive web application for beginners to learn and manipulate Pandas._
 
 ## 🏆 Achievements
 
