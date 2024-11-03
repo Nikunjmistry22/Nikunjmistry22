@@ -7,7 +7,7 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 - 💼 **Work Experience**:
   - **Data Analyst Intern at NeenOPal**  
      _CURRENT_
-    - Developing GCP dimension tables for the GA dashboard at the 'Event level', 'Page level', and 'Session level' for all GA KPIs of a US client project.
+    - Writing BigQuery scripts to develop dimension tables for a GA dashboard, enabling data integration from Google Analytics to Power BI for a US client project.
     - Working on an internal project, which involves building an ETL pipeline using AWS services.
       
 - 💼 **Work Experience**:
@@ -23,7 +23,7 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 - **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **Web Technologies**: Web 2.0, Bootstrap, Flask, Quart
 - **Big Data Tools**: PySpark, ETL, Data Modelling, Data Analysis
-- **Cloud**: AWS, GCP Big Query , DBT, Prefect
+- **Cloud**: AWS (Intermediate), GCP Big Query (Advanced), Snowflake (Beginning), DBT (Intermediate), Prefect
 - **Other Tools**: Git, Anaconda, Colab, Figma, Power BI, Wix
 - **Coding Platforms**: Leetcode (Highest Rating: 1903), CodeChef (Highest Rating: 1561), Solved 500+ SQL Problems
 
