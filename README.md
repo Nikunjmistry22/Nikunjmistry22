@@ -29,7 +29,7 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 
 ## 💡 Projects
 
-### [SqlUnlocker](https://github.com/Nikunjmistry22/Air-Quality-Pipeline)
+### [Air Data Pipeline](https://github.com/Nikunjmistry22/Air-Quality-Pipeline)
 _Build an ETL pipeline for daily record fetch due to rate limit in free tier account._
 ### [SqlUnlocker](https://github.com/Nikunjmistry22/SqlUnlocker)
 _Access all LeetCode SQL questions and solutions, including locked ones._
