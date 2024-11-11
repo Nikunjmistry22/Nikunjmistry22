@@ -55,7 +55,6 @@ _Extracted data from PokeAPI and visualized it using Power BI._
 
 - **Email**: [nikunjmistry1000@gmail.com](mailto:nikunjmistry1000@gmail.com)
 - **Phone**: +91-9004256895
-- **Resume**: [Link](https://tinyurl.com/ResumeNikunjm)
 
 ---
 
