@@ -5,12 +5,10 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 
 ##  About Me
 - 💼 **Work Experience**:
-  - **Data Analyst Intern at NeenOPal**  
-    
-      
-- 💼 **Work Experience**:
-  - **Data Analyst Intern at Tamasha**  
-    _June 2023 - Sep 2023_
+  - **Data Analyst at NeenOPal
+    - Period: Jan 2025 - Current
+  - **Data Analyst Intern at Tamasha**
+    - Period: June 2023 - Sep 2023
     - Developed dashboards for revenue, deposit tracking, and game-specific analytics.
     - Managed cashback processes and automated weekly cashback reports.
     - Resolved technical glitches and addressed customer queries.
