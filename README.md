@@ -6,9 +6,7 @@ Aspiring **Data Analyst** and **Data Engineer** with a knack for turning raw dat
 ##  About Me
 - 💼 **Work Experience**:
   - **Data Analyst Intern at NeenOPal**  
-     _CURRENT_
-    - Writing BigQuery scripts to develop dimension tables for a GA dashboard, enabling data integration from Google Analytics to Power BI for a US client project.
-    - Working on an internal project, which involves building an ETL pipeline using AWS services.
+    
       
 - 💼 **Work Experience**:
   - **Data Analyst Intern at Tamasha**  
